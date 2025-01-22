@@ -1,0 +1,22 @@
+{
+  "name": "CdCSharp NjBlazor Site",
+  "short_name": "CdCSharp NjBlazor Site",
+  "id": "./",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#03173d",
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "njframework512.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x512"
+    },
+    {
+      "src": "njframework192.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192"
+    }
+  ]
+}
